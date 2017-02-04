@@ -14,5 +14,5 @@
  *= require_self
  */
 
- @important "bootstrap-sprockets";
- @important "bootstrap";
+ @import "bootstrap-sprockets";
+ @import "bootstrap";
